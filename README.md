@@ -6,7 +6,7 @@
 由於本專案之核心功能（如資料重複警示、CSV 匯入流程）包含動態操作，**請務必點擊下方連結至線上簡報觀看演示影片**：
 
 *  **[簡報連結 (含功能演示影片)](https://www.canva.com/design/DAGZBoczA9c/nBkBsFR5MWjY9wsRLRLIxQ/view?utm_content=DAGZBoczA9c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfd0f023e63)**
-    > *註：進入 Canva 連結後，點擊簡報頁面中的播放鈕即可觀看功能操作實錄。*
+    > *註：進入 Canva 連結後，即可觀看功能操作實錄。*
 *  **[專案 PDF)](Project_Report_EHR_System.pdf)**
 
 ## 核心功能

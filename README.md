@@ -7,7 +7,7 @@
 
 *  **[簡報連結 (含功能演示影片)](https://www.canva.com/design/DAGZBoczA9c/nBkBsFR5MWjY9wsRLRLIxQ/view?utm_content=DAGZBoczA9c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfd0f023e63)**
     > *註：進入 Canva 連結後，即可觀看功能操作實錄。*
-*  **[專案 PDF)](Project_Report_EHR_System.pdf)**
+*  **[專案 PDF](Project_Report_EHR_System.pdf)**
 
 ## 核心功能
 * **病人資訊維護 (CRUD)**：實現病人資料的新增、清單查詢、資料修改與記錄刪除。
